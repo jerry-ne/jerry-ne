@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there / Čau lidi 👋
 
 <!--
 **jerry-ne/jerry-ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=jerry-ne)](https://github.com/jerry-ne/github-profile-trophy)
